@@ -1,0 +1,35 @@
+var classzappy_1_1Config =
+[
+    [ "RenderMode", "classzappy_1_1Config.html#a473ad0de0dba9e7efa07c14fdd336e94", [
+      [ "Mode2D", "classzappy_1_1Config.html#a473ad0de0dba9e7efa07c14fdd336e94af0b37565f6ddf107bc11db81c56bfd74", null ],
+      [ "Mode3D", "classzappy_1_1Config.html#a473ad0de0dba9e7efa07c14fdd336e94a06281e6e6d43bc2879d68aaa3864a8a0", null ]
+    ] ],
+    [ "loadFromFile", "classzappy_1_1Config.html#a1e7c058352a5306ad1814fcce8da4f3f", null ],
+    [ "parseArgs", "classzappy_1_1Config.html#a5ea4ade5ee4cb9946bbac976515d7589", null ],
+    [ "parsePort", "classzappy_1_1Config.html#a262e0a73a87c0cabe01039aa60b40215", null ],
+    [ "parseResolution", "classzappy_1_1Config.html#a4cde663dc53863854894aa40ff669009", null ],
+    [ "printUsage", "classzappy_1_1Config.html#a5dbe3c7b2be93034a41cf04031f130f7", null ],
+    [ "validate", "classzappy_1_1Config.html#a87a431fc80550bef1e96f0756d4bd636", null ],
+    [ "assetsPath", "classzappy_1_1Config.html#a86386eee3cb613bc1640d5a2515d767e", null ],
+    [ "defaultZoom", "classzappy_1_1Config.html#ab4af666b457c448465937a4f6cf8212f", null ],
+    [ "enableAntialiasing", "classzappy_1_1Config.html#adafd5959333d1faba42112235743291b", null ],
+    [ "fontsPath", "classzappy_1_1Config.html#a32be8522aff95be183b4f44566c1877f", null ],
+    [ "fpsLimit", "classzappy_1_1Config.html#a24e142d23276b956ef0afa909b48a77e", null ],
+    [ "fullscreen", "classzappy_1_1Config.html#aaf7cdeec7aab4c84d21d1fcd4d670acc", null ],
+    [ "maxZoom", "classzappy_1_1Config.html#ade8aa5d193ab9772df2d5157754288d2", null ],
+    [ "minZoom", "classzappy_1_1Config.html#aa3f73377277b8ac5ebfd85e31d5a4a5f", null ],
+    [ "networkTimeout", "classzappy_1_1Config.html#a25c0d3b0a07edd8f9e7d56fe70786db9", null ],
+    [ "panSpeed", "classzappy_1_1Config.html#a2a8865b079be3f20d81d58ca165a4d2a", null ],
+    [ "renderMode", "classzappy_1_1Config.html#a24c395c3a952f38cb2303f0f8f018606", null ],
+    [ "serverHost", "classzappy_1_1Config.html#a8debe372c9f613b7558d5d824fe61736", null ],
+    [ "serverPort", "classzappy_1_1Config.html#accde9da206d11fc1c8e8ec1ca698a7fb", null ],
+    [ "showDebugInfo", "classzappy_1_1Config.html#a94d28c048fa072618e8ac0d41fd14e41", null ],
+    [ "showFPS", "classzappy_1_1Config.html#ae3422c28be8ee43e1ad28e22a98f4a8f", null ],
+    [ "showGrid", "classzappy_1_1Config.html#ab368715630290b48bc13e024494055b9", null ],
+    [ "texturesPath", "classzappy_1_1Config.html#a92559bd8d79aef5f9e75a6b288037b76", null ],
+    [ "vsync", "classzappy_1_1Config.html#af29693cba68b38eb2850eda831246112", null ],
+    [ "windowHeight", "classzappy_1_1Config.html#a1297ed00998dfb366d1731104a0e3c3a", null ],
+    [ "windowTitle", "classzappy_1_1Config.html#a7140158534530d1e431dc483e4e7864e", null ],
+    [ "windowWidth", "classzappy_1_1Config.html#a5efcec858932287b79c62b998bb84a3b", null ],
+    [ "zoomSpeed", "classzappy_1_1Config.html#a12dd69c2f52de89f93821c11d56cd203", null ]
+];

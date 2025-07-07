@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['phiras_0',['PHIRAS',['../group__player.html#ga0b631af97d5cf513487f87aa720e4791a5580e70ebf42665014dca5cfdaa11b82',1,'PHIRAS:&#160;server_old.h'],['../types_8h.html#a0b631af97d5cf513487f87aa720e4791a5580e70ebf42665014dca5cfdaa11b82',1,'PHIRAS:&#160;types.h']]],
+  ['phiras_1',['Phiras',['../namespacezappy.html#a3cb15f5caa7d2506efeedd492ece306ea38b4972925bc9b20bdbd086aaffa5760',1,'zappy']]],
+  ['player_5fbroadcast_2',['PLAYER_BROADCAST',['../namespacezappy.html#a500538a48f15697e90d8a50b12f40a77a43babc241e05390e020391f3be885c18',1,'zappy']]],
+  ['player_5fconnect_3',['PLAYER_CONNECT',['../namespacezappy.html#a500538a48f15697e90d8a50b12f40a77a97cce9c819f2302f2e4420c457b73b7f',1,'zappy']]],
+  ['player_5fdeath_4',['PLAYER_DEATH',['../namespacezappy.html#a500538a48f15697e90d8a50b12f40a77aa46f86191c5ccc93df22d96a009c3349',1,'zappy']]],
+  ['player_5fdisconnect_5',['PLAYER_DISCONNECT',['../namespacezappy.html#a500538a48f15697e90d8a50b12f40a77a255bc503d2051cea81c00fc3cb48e1f6',1,'zappy']]],
+  ['player_5felevation_6',['PLAYER_ELEVATION',['../namespacezappy.html#a500538a48f15697e90d8a50b12f40a77a6d6f15adbc4d51ef37042bda18bb32c8',1,'zappy']]],
+  ['playerbroadcast_7',['PlayerBroadcast',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236ea0dea70c0314dd41be8348c5e50dfa383',1,'zappy']]],
+  ['playerdeath_8',['PlayerDeath',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236eab9fbac179f1be377fe125f9deb1a4ba9',1,'zappy']]],
+  ['playerdrop_9',['PlayerDrop',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236eaab076438c2616496e18140b7442ff5fa',1,'zappy']]],
+  ['playerexpel_10',['PlayerExpel',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236ea041c61c032f91cf9e9cc52c6751a77d5',1,'zappy']]],
+  ['playerfork_11',['PlayerFork',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236ea16acba7caa9b1cf796ceb4511268951d',1,'zappy']]],
+  ['playerinventory_12',['PlayerInventory',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236eae824837ba609820b6233e969a989ee73',1,'zappy']]],
+  ['playerlevel_13',['PlayerLevel',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236eadbe35c4b3f99af39151bd06aa9cf5052',1,'zappy']]],
+  ['playernew_14',['PlayerNew',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236eabc281d5709921813216daa1da1aefa54',1,'zappy']]],
+  ['playerposition_15',['PlayerPosition',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236eaf3e5f34632e780964ba3ee7d8b13c1aa',1,'zappy']]],
+  ['playertake_16',['PlayerTake',['../namespacezappy.html#a1514dd358af0d7907f039b7c3163236ea3157144a152556fc5de8c68b8ce5dc6e',1,'zappy']]]
+];

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['id_0',['id',['../group__player.html#ga7084047db64f9f9ea15adbe6e6c4f11e',1,'egg_s::id'],['../group__player.html#ga1c8e76b80541ed69ec3e89a6ecf796e5',1,'player_s::id'],['../group__player.html#gac3716e3bb96e337117e35dceb34ffef9',1,'team_s::id'],['../structzappy_1_1PlayerAddedEvent.html#a009734660c019503a0e9094fa205ef64',1,'zappy::PlayerAddedEvent::id'],['../structzappy_1_1PlayerRemovedEvent.html#a41ba20f0ccc61896be22903cc00af3ef',1,'zappy::PlayerRemovedEvent::id'],['../structzappy_1_1PlayerMovedEvent.html#a7b0ac45ec5399b92e7d5cd57f2881a91',1,'zappy::PlayerMovedEvent::id'],['../structzappy_1_1PlayerLevelUpEvent.html#afd5f1140a476e5fbe33e1a395b4d7db6',1,'zappy::PlayerLevelUpEvent::id'],['../structzappy_1_1PlayerIncantationEvent.html#a078c88dcd86c863b001d9100e4398af1',1,'zappy::PlayerIncantationEvent::id'],['../structzappy_1_1EggAddedEvent.html#aa31411fb79aa7da648308b8a1828e601',1,'zappy::EggAddedEvent::id'],['../structzappy_1_1EggRemovedEvent.html#a4c7fc5fdf66b7aaa73b26a159fa0a1ef',1,'zappy::EggRemovedEvent::id']]],
+  ['id_5f_1',['id_',['../classzappy_1_1Entity.html#a2e4980c4881f1209c9494f7daa8da93e',1,'zappy::Entity::id_'],['../classzappy_1_1Team.html#a57696c1ca985adcd3328db5f6a1b27cd',1,'zappy::Team::id_']]],
+  ['idleframes_5f_2',['idleFrames_',['../classzappy_1_1AnimationSystem.html#ad088f7344b431a8f8531c7ffd58eca8e',1,'zappy::AnimationSystem']]],
+  ['idtext_5f_3',['idText_',['../classzappy_1_1PlayerInfoPanel.html#aeb7e2226b42dbfe5237fc4f176636fd5',1,'zappy::PlayerInfoPanel']]],
+  ['in_5fbuf_4',['in_buf',['../group__player.html#ga627a2a9b037f05c6fbf6b2cd516a4db1',1,'client_s']]],
+  ['incantationactive_5f_5',['incantationActive_',['../classzappy_1_1Tile.html#a69cc724fd03ad4e8a727e6214f0f6d93',1,'zappy::Tile']]],
+  ['incantationlevel_5f_6',['incantationLevel_',['../classzappy_1_1Tile.html#a8d048d346abcb85a1cba548050dd7bf7',1,'zappy::Tile']]],
+  ['incomingmessages_5f_7',['incomingMessages_',['../classzappy_1_1NetworkClient.html#a1de639a5886208a262bc789b334f6a2d',1,'zappy::NetworkClient']]],
+  ['incubationtime_5f_8',['incubationTime_',['../classzappy_1_1Egg.html#a326da3247a6e5c5d916ca40c7bc7b75b',1,'zappy::Egg']]],
+  ['inincantation_5f_9',['inIncantation_',['../classzappy_1_1Player.html#a8d53cd6f6f3badc20df373928d93a44a',1,'zappy::Player']]],
+  ['initialized_5f_10',['initialized_',['../classzappy_1_1Application.html#a04246258282820a6650fe8386abaa5e7',1,'zappy::Application::initialized_'],['../classzappy_1_1Renderer3D.html#afbcee4107dfaff3ba5129b36ae0c2573',1,'zappy::Renderer3D::initialized_']]],
+  ['intensity_11',['intensity',['../structzappy_1_1TileAnimation.html#aeafffd44d349ec2a00f536fcfe5731c3',1,'zappy::TileAnimation']]],
+  ['interpolatedpos_5f_12',['interpolatedPos_',['../classzappy_1_1Player.html#a0a0db817647e572c138e0909f5e40fcc',1,'zappy::Player']]],
+  ['interpolationspeed_5f_13',['interpolationSpeed_',['../classzappy_1_1Entity.html#a61a582a5566d54565672002704d6d54d',1,'zappy::Entity']]],
+  ['inventory_14',['inventory',['../group__player.html#ga023a4a4a892969502014a26ec6931a79',1,'player_s']]],
+  ['inventory_5f_15',['inventory_',['../classzappy_1_1Player.html#afcfe39cc1fbe5b0d72c0736de2ab173b',1,'zappy::Player::inventory_'],['../classzappy_1_1PlayerInfoPanel.html#aebbf8e3dcc82fb0008650199a2db0c3d',1,'zappy::PlayerInfoPanel::inventory_']]],
+  ['is_5fbusy_16',['is_busy',['../group__player.html#gac81fcbf08becadccf965524b8e4a9315',1,'player_s']]],
+  ['is_5fdead_17',['is_dead',['../group__player.html#ga39e07b11f3bee9d11e285c74a1ea643c',1,'player_s']]],
+  ['is_5fegg_18',['is_egg',['../classzappy_1_1EntityBase.html#aaf45ec9a4c62ebc6abbeb0e44d86f890',1,'zappy::EntityBase']]],
+  ['is_5ffrozen_19',['is_frozen',['../group__player.html#gac80520b35303f467dd972945acf48928',1,'player_s']]],
+  ['is_5fleader_20',['is_leader',['../classmodels_1_1Player.html#adc7aa7dc11c785a8d14659e72dfc3a85',1,'models::Player']]],
+  ['is_5fplayer_21',['is_player',['../classzappy_1_1EntityBase.html#ab87258f2ffc5c492317d8e262ab62666',1,'zappy::EntityBase']]],
+  ['isfollowing_5f_22',['isFollowing_',['../classzappy_1_1Camera.html#a0050507b29a7750cb89f6f464b7a34f5',1,'zappy::Camera']]],
+  ['isstarting_23',['isStarting',['../structzappy_1_1PlayerIncantationEvent.html#a86a05f23d6088e2ec38c1cfadd8f1965',1,'zappy::PlayerIncantationEvent']]],
+  ['iswinning_24',['isWinning',['../structzappy_1_1TeamDisplayInfo.html#a6a60085b826acc012e1ecaa7a91aa543',1,'zappy::TeamDisplayInfo']]]
+];
